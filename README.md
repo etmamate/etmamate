@@ -26,4 +26,4 @@
 </div>
 
 
-![Snake animation](https://github.com/etmamate/etmamate/blob/output/github-user-contribution.svg)
+![Snake animation](https://github.com/etmamate)
