@@ -1,14 +1,15 @@
 ### Olá! 👋
-
-- 🔭 Atualmente estou procurando oportunidade na área de Backend.
-- 🌱 Estou atualmente estudando Java.
+<div>
+  <h6>- 🔭 Atualmente estou procurando oportunidade na área de Backend.</h6 color=09B43A>
+  <h6>- 🌱 Estou atualmente estudando Java.</h6>
+</div>
 
 ##
 
 <div>
   <a href = "https://github.com/etmamate">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etmamate&show_icons=true&theme=aura&include_all_commits=true&count_private=true&bg_color=0A0C10&show_icons=true&text_color=00CC74"/>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etmamate&layout=compact&langs_count=16&theme=aura&&bg_color=0A0C1&text_color=00CC74"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etmamate&show_icons=true&theme=aura&include_all_commits=true&count_private=true&bg_color=0A0C10&text_color=00CC74"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etmamate&layout=compact&langs_count=16&theme=aura&bg_color=0A0C10&text_color=00CC74"/>
 </div>
 
     
