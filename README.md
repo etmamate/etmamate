@@ -30,6 +30,8 @@
   <h2>My Contributions</h2>
   <br>
   <img alt="snake" src="https://raw.githubusercontent.com/etmamate/etmamate/output/github-contribution-grid-snake.svg>
+  
+  <br/><br/><br/>
 </div>
 
 
