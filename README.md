@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**etmamate/etmamate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou procurando oportunidade na área de Backend.
+- 🌱 Estou atualmente estudando Java.
+- 📫 Contato: LinkedIn: https://www.linkedin.com/in/mateus-cristo-419a8624b/.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href = "https://github.com/etmamate">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etmamate&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etmamate&layout=compact&langs_count=16&theme=calm"/>
+  </div>
+<div style = "display: inline_block"><br>
+<img align ="center" alt=Mate-java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align ="center" alt=Mate-java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+          
