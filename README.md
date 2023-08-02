@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou procurando oportunidade na área de Backend.
 - 🌱 Estou atualmente estudando Java.
-- 📫 Contato: LinkedIn: https://www.linkedin.com/in/mateus-cristo-419a8624b/.
 
 ##
 
