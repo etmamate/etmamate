@@ -26,6 +26,10 @@
 </div>
 
     
-![Snake gif](https://github.com/etmamate/etmamate/output/github-contribution-grid-snake.svg) 
+<div align="center">
+  <h2>My Contributions</h2>
+  <br>
+  <img alt="snake" src="https://raw.githubusercontent.com/etmamate/etmamate/output/github-user-contribution.svg>
+</div>
 
 
