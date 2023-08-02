@@ -8,8 +8,8 @@
 
 <div>
   <a href = "https://github.com/etmamate">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etmamate&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etmamate&layout=compact&langs_count=16&theme=calm"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etmamate&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etmamate&layout=compact&langs_count=16&theme=aura"/>
 </div>
 
     
@@ -29,7 +29,7 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.github.com/etmamate/etmamate/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.github.com/etmamate/etmamate/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
