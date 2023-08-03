@@ -1,8 +1,7 @@
 ### Olá! 👋
-<div>
-  <h6>- 🔭 Atualmente estou procurando oportunidade na área de Backend.</h6 color=09B43A>
-  <h6>- 🌱 Estou atualmente estudando Java.</h6>
-</div>
+
+- 🔭 Atualmente estou procurando oportunidade na área de Backend.</h6 color=09B43A>
+- 🌱 Estou atualmente estudando e praticando Java.
 
 ##
 
@@ -12,7 +11,7 @@
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etmamate&layout=compact&langs_count=16&theme=aura&bg_color=0A0C10&text_color=00CC74"/>
 </div>
 
-    
+
 <div style = "display: inline_block" align="center"><br>
   <img align ="center" alt=Mate-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align ="center" alt=Mate-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
