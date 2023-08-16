@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🔭 Atualmente estou procurando oportunidade na área de Backend.
-- 🌱 Estou atualmente estudando e praticando Java..
+- 🌱 Estou atualmente estudando e praticando Java.
 
 ##
 
