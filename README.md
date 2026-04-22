@@ -1,6 +1,6 @@
 ### Olá!👋
 
-Meu nome é [Mateus](https://www.linkedin.com/in/cristomateus/), sou estudante de **Analise e Desenvolvimento de Software**.
+Meu nome é [Mateus](https://www.linkedin.com/in/cristomateus/), sou estudante de **Analise e Desenvolvimento de Sistema**.
 
 Sou desenvolvedor voltado para parte de **backend** e **banco de dados**.
 **Atualmente trabalho** com desenvolvimento de **Querys** e **análise de dados** utilizando **MySQL**.
